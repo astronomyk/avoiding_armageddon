@@ -6,7 +6,7 @@ http://stuffin.space/
 * 18000 Objects
 * 128 million < 1cm
 * 1 million < 10cm
-* 34000 > 10 cm
+* 34000 > 10 cm (catalogued ~20000)
 
 Tracking
 --------
