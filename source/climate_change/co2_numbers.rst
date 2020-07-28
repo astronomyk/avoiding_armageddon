@@ -9,6 +9,10 @@ Japan        1,300
 
 Units are Mt/yr CO2eq
 
+
+
+
+
 IPCC 2014 AR5 WG3 Chapter 7
 Energy generation total 35% of GHG (2010)
 

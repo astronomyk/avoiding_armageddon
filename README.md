@@ -14,6 +14,3 @@ to Humanity, and life on Earth, including:
 * Helium scarcity
 * Micro-plastics
 
- 
-
-

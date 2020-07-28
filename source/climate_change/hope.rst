@@ -1,5 +1,7 @@
 New technologies that can help reduce CO2 emissions
 ===================================================
+Nori podcasts
+
 
 Direct air capture of CO2
 -------------------------
@@ -7,9 +9,6 @@ Olivine - Project Vesta
 
 The idea is to speed up the weathering of Olivine - a process which absorbs CO2
 from the surrounding medium (air, water)
-
-
-
 
 
 Capturing CO2 from cement chemical process
@@ -38,4 +37,25 @@ Electric cars
 
 Bio-kerosene
 ------------
+
+
+Kelp farming
+------------
+https://nori.com/podcast/34-brian-von-herzen-founder-of-climate-foundation
+
+http://www.climatefoundation.org/
+
+- Food
+- Feed
+    - Cows that eat seaweed produce 90% less methane
+- Fertilizer
+- Fiber
+
+
+Mariner program
++++++++++++++++
+https://arpa-e.energy.gov/?q=arpa-e-programs/mariner
+
+Seaweed-to-fuel program
+
 
